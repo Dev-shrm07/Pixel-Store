@@ -1,6 +1,6 @@
-# 🌟 PixelMarket: Your Creative Haven 🎨
+# 🌟 PixelStore 🎨
 
-Welcome to PixelMarket, a vibrant marketplace for stock images where creativity knows no bounds! 🚀 Buy or sell stunning photos with ease. To start selling, creators must set up a connected Stripe account on our platform for seamless payments.
+Welcome to PixelStore, a vibrant marketplace for stock images where creativity knows no bounds! 🚀 Buy or sell stunning photos with ease. To start selling, creators must set up a connected Stripe account on our platform for seamless payments.
 
 ## 🌐 Features
 
